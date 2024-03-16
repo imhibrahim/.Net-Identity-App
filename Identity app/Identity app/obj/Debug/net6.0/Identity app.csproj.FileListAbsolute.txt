@@ -1,0 +1,67 @@
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\appsettings.Development.json
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\appsettings.json
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Identity app.staticwebassets.runtime.json
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Identity app.exe
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Identity app.deps.json
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Identity app.runtimeconfig.json
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Identity app.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Identity app.pdb
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Humanizer.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\Identity app.csproj.AssemblyReference.cache
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\Identity app.GeneratedMSBuildEditorConfig.editorconfig
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\Identity app.AssemblyInfoInputs.cache
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\Identity app.AssemblyInfo.cs
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\Identity app.csproj.CoreCompileInputs.cache
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\Identity app.MvcApplicationPartsAssemblyInfo.cache
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\Identity app.RazorAssemblyInfo.cache
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\Identity app.RazorAssemblyInfo.cs
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\Identity app.sourcelink.json
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\staticwebassets.build.json
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\staticwebassets.development.json
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\staticwebassets\msbuild.Identity app.Microsoft.AspNetCore.StaticWebAssets.props
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\staticwebassets\msbuild.build.Identity app.props
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Identity app.props
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Identity app.props
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\staticwebassets.pack.json
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\scopedcss\bundle\Identity app.styles.css
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\scopedcss\projectbundle\Identity app.bundle.scp.css
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\Identity app.csproj.CopyComplete
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\Identity app.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\refint\Identity app.dll
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\Identity app.pdb
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\Identity app.genruntimeconfig.cache
+D:\identity work\.Net-Identity-App\Identity app\Identity app\obj\Debug\net6.0\ref\Identity app.dll

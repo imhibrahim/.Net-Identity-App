@@ -2188,11 +2188,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Identity app\\Identity app\\Identity app.csproj",
+      "projectUniqueName": "D:\\identity work\\.Net-Identity-App\\Identity app\\Identity app\\Identity app.csproj",
       "projectName": "Identity app",
-      "projectPath": "D:\\Identity app\\Identity app\\Identity app.csproj",
+      "projectPath": "D:\\identity work\\.Net-Identity-App\\Identity app\\Identity app\\Identity app.csproj",
       "packagesPath": "C:\\Users\\Muhammad Ibrahim\\.nuget\\packages\\",
-      "outputPath": "D:\\Identity app\\Identity app\\obj\\",
+      "outputPath": "D:\\identity work\\.Net-Identity-App\\Identity app\\Identity app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
