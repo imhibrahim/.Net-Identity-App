@@ -11,6 +11,6 @@ namespace Identity_app.Data
             
         }
 
-
+        public DbSet<ApplicationUser> ApplicationUsers  { get; set; }
     }
 }

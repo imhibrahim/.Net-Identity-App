@@ -1,4 +1,6 @@
 using Identity_app.Data;
+using Identity_app.Models;
+using Identity_app.Repositories;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,8 +11,11 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ApplicationDbContext>(x=>x.UseSqlServer(builder.Configuration
     .GetConnectionString("default")));
-builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDbContext>();
+
+builder.Services.AddScoped<IAccount, AccountModel>();
 
 var app = builder.Build();
 
