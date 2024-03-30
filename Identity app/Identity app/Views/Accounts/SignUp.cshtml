@@ -1,4 +1,8 @@
-﻿<style>
+﻿@model Identity_app.DTOs.AccountDTO
+
+
+
+<style>
 
     .sec-signup{
         min-height:100vh;
@@ -22,13 +26,14 @@
     <div class="signup-box">
 
         <h3>SignUp Form</h3>
-        <form>
+        <form method="post">
 
-           <input type="text" placeholder="Enter User Name" class="form-control mt-2" />
-            <input type="email" placeholder="Enter Email" class="form-control mt-2" />
-            <input type="text" placeholder="Enter Age" class="form-control mt-2" />
-            <input type="text" placeholder="Enter Password" class="form-control mt-2" />
-            <button type="button" id="btnSignup" class="btn btn-info w-100 mt-2"> Sign-Up</button>
+            <input type="text" asp-for="UserName" placeholder="Enter User Name" class="form-control mt-2" />
+            <input type="email"asp-for="Email" placeholder="Enter Email" class="form-control mt-2" />
+            <input type="text" asp-for="Age" placeholder="Enter Age" class="form-control mt-2" />
+            <input type="text" asp-for="Password" placeholder="Enter Password" class="form-control mt-2" />
+
+            <button type="submit" id="btnSignup" class="btn btn-info w-100 mt-2"> Sign-Up</button>
         </form>
 
 

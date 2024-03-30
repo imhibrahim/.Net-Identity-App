@@ -8,5 +8,13 @@ namespace Identity_app.Controllers
         {
             return View();
         }
+
+
+        public IActionResult SignUp(IActionResult actionResult)
+        {
+            return null;
+
+        }
+
     }
 }
